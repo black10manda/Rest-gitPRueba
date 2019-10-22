@@ -15,5 +15,5 @@ Pass: <input type="text" name="password" value="">
 ';
 
 
-
+echo "hola q tal";
 ?>
